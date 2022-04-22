@@ -1,2 +1,3 @@
 # lista_de_tarefa_react
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://1niel8.csb.app/)
